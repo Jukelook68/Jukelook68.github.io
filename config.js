@@ -1,9 +1,9 @@
 window.__CONFIG__ = {
   // The URL for the CORS proxy, the URL must NOT end with a slash!
-  VITE_CORS_PROXY_URL: "CHANGEME",
+  VITE_CORS_PROXY_URL: "https://65c96e18b954537edd04153e--funny-banoffee-c65ca3.netlify.app",
 
   // The READ API key to access TMDB
-  VITE_TMDB_READ_API_KEY: "CHANGEME",
+  VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkMDMyNGU5NzhjODZiMzM0YTY5OWQxMmMxODUzZjM5NiIsInN1YiI6IjY1ZGI3ZTcyY2FiZmU0MDE4NmQxYjRjNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.foVVYf04Qb40lr3qmb2n4eHP8v-4V40l7YWn8mPZG3U",
 
   // The DMCA email displayed in the footer, null to hide the DMCA link
   VITE_DMCA_EMAIL: null,

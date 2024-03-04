@@ -3,17 +3,17 @@ import {
     j as t,
     c as l,
     ax as d
-} from "./vendor-CtbUqpA0.js";
+} from "./vendor.js";
 import {
     e as x
-} from "./react-dom-BnEYDcZu.js";
+} from "./react-dom.js";
 import {
     I as a,
     a as n
-} from "./Icons-XXm5y-G7.js";
+} from "./Icons.js";
 import {
     n as s
-} from "./index-CXsI4q_W.js";
+} from "./index.js";
 
 function r(e) {
     return e.type === "loading"

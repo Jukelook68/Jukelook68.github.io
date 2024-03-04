@@ -3,7 +3,7 @@ import {
     c as mn,
     C as Gt,
     a as Sm
-} from "./auth-72H9TcpW.js";
+} from "./auth.js";
 import {
     e as $m,
     a as Lw,
@@ -11,7 +11,7 @@ import {
     r as Dw,
     p as jw,
     c as Uw
-} from "./caption-parsing-BGqd6Hpv.js";
+} from "./caption-parsing.js";
 
 function Mw(e, t) {
     for (var r = 0; r < t.length; r++) {

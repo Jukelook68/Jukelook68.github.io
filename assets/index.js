@@ -38,7 +38,7 @@ import {
   au as Ti,
   av as U,
   aw as Ri
-} from "./vendor-CtbUqpA0.js";
+} from "./vendor.js";
 import {
   _ as Pi,
   i as Ai,
@@ -67,7 +67,7 @@ import {
   p as Gi,
   B as Ki,
   q as zi
-} from "./react-dom-BnEYDcZu.js";
+} from "./react-dom.js";
 import {
   c as Qi,
   a as qi,
@@ -112,7 +112,7 @@ import {
   O as _a,
   P as Oa,
   Q as Ma
-} from "./locales-BNmjpJ3z.js";
+} from "./locales.js";
 import {
   g as mn,
   I,
@@ -122,10 +122,10 @@ import {
   b as Ws,
   s as Ba,
   c as Me
-} from "./Icons-XXm5y-G7.js";
+} from "./Icons.js";
 import {
   f as Z
-} from "./auth-72H9TcpW.js";
+} from "./auth.js";
 import {
   d as Fa,
   f as Ua,
@@ -133,11 +133,11 @@ import {
   h as Gs,
   l as $a,
   F as Va
-} from "./caption-parsing-BGqd6Hpv.js";
+} from "./caption-parsing.js";
 import {
   H as me
-} from "./hls-Di-l_7QN.js";
-import "./language-db-C33ehKO5.js";
+} from "./hls.js";
+import "./language-db.js";
 (function() {
   const t = document.createElement("link").relList;
   if (t && t.supports && t.supports("modulepreload")) return;
@@ -11415,10 +11415,10 @@ function sf() {
       return (i == null ? void 0 : i.path) ?? "/"
   }, [e, t])
 }
-const wh = d.lazy(() => Lt(() => import("./DeveloperPage-B16OoFsL.js"), __vite__mapDeps([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])));
-d.lazy(() => Lt(() => import("./TestView-CzqvQ4Zs.js"), __vite__mapDeps([10, 1, 2, 3, 4, 8, 5, 6, 7, 9])));
-const ln = Us(() => Lt(() => import("./PlayerView-BTuYWLfO.js"), __vite__mapDeps([11, 1, 2, 3, 5, 6, 7, 4, 12, 8, 9]))),
-  ci = Us(() => Lt(() => import("./Settings-BwDDmIRd.js"), __vite__mapDeps([13, 1, 2, 3, 4, 5, 6, 7, 9, 12, 8])));
+const wh = d.lazy(() => Lt(() => import("./DeveloperPage.js"), __vite__mapDeps([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])));
+d.lazy(() => Lt(() => import("./TestView.js"), __vite__mapDeps([10, 1, 2, 3, 4, 8, 5, 6, 7, 9])));
+const ln = Us(() => Lt(() => import("./PlayerView.js"), __vite__mapDeps([11, 1, 2, 3, 5, 6, 7, 4, 12, 8, 9]))),
+  ci = Us(() => Lt(() => import("./Settings.js"), __vite__mapDeps([13, 1, 2, 3, 4, 5, 6, 7, 9, 12, 8])));
 ln.preload();
 ci.preload();
 

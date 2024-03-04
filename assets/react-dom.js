@@ -9,7 +9,7 @@ var ot = (e, t, n) => (rp(e, typeof t != "symbol" ? t + "" : t, n), n);
 import {
     c as Ce,
     g as lp
-} from "./auth-72H9TcpW.js";
+} from "./auth.js";
 import {
     r as v,
     g as M,
@@ -50,7 +50,7 @@ import {
     X as Lp,
     Y as _p,
     Z as Fp
-} from "./vendor-CtbUqpA0.js";
+} from "./vendor.js";
 var vo = {},
     $p = Ce && Ce.__createBinding || (Object.create ? function(e, t, n, r) {
         r === void 0 && (r = n);

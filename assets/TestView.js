@@ -1,17 +1,17 @@
 import {
     r as o,
     j as e
-} from "./vendor-CtbUqpA0.js";
+} from "./vendor.js";
 import {
     B as i
-} from "./index-CXsI4q_W.js";
+} from "./index.js";
 import "./auth-72H9TcpW.js";
 import "./caption-parsing-BGqd6Hpv.js";
-import "./react-dom-BnEYDcZu.js";
-import "./locales-BNmjpJ3z.js";
-import "./Icons-XXm5y-G7.js";
-import "./language-db-C33ehKO5.js";
-import "./hls-Di-l_7QN.js";
+import "./react-dom.js";
+import "./locales.js";
+import "./Icons.js";
+import "./language-db.js";
+import "./hls.js";
 
 function x() {
     const [r, t] = o.useState(!1);

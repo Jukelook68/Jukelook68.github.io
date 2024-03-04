@@ -3,7 +3,7 @@ import {
     j as t,
     c as O,
     p as Rt
-} from "./vendor-CtbUqpA0.js";
+} from "./vendor.js";
 import {
     R as pe,
     z as U,
@@ -54,11 +54,11 @@ import {
     at as In,
     au as kn,
     av as Un
-} from "./index-CXsI4q_W.js";
+} from "./index.js";
 import {
     c as Ie,
     g as Ln
-} from "./auth-72H9TcpW.js";
+} from "./auth.js";
 import {
     b as N,
     d as nt,
@@ -66,21 +66,21 @@ import {
     a as Zt,
     T as Jt,
     k as En
-} from "./react-dom-BnEYDcZu.js";
+} from "./react-dom.js";
 import {
     I as te,
     a as P,
     s as On,
     F as Dn,
     g as Mn
-} from "./Icons-XXm5y-G7.js";
-import "./hls-Di-l_7QN.js";
-import "./caption-parsing-BGqd6Hpv.js";
-import "./language-db-C33ehKO5.js";
+} from "./Icons.js";
+import "./hls.js";
+import "./caption-parsing.js";
+import "./language-db.js";
 import {
     S as Rn
-} from "./StatusCircle-B54taPQT.js";
-import "./locales-BNmjpJ3z.js";
+} from "./StatusCircle.js";
+import "./locales.js";
 var Ue = {
     exports: {}
 };

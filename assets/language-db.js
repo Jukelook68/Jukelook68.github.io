@@ -1,10 +1,10 @@
 import {
   g as ia,
   c as _
-} from "./auth-72H9TcpW.js";
+} from "./auth.js";
 import {
   l as da
-} from "./vendor-CtbUqpA0.js";
+} from "./vendor.js";
 var aa = {};
 const ta = ["Northwest Caucasian", "Afro-Asiatic", "Indo-European", "Niger–Congo", "Northeast Caucasian", "Aymaran", "Turkic", "Language isolate", "Creole", "Sino-Tibetan", "Austronesian", "Algonquian", "Constructed", "Uralic", "South Caucasian", "Tupian", "Eskimo–Aleut", "Japonic", "Dravidian", "Nilo-Saharan", "Austroasiatic", "Koreanic", "Tai–Kadai", "Mongolic", "Dené–Yeniseian", "Niger-Congo", "Quechuan"],
   la = [{

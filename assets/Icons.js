@@ -2,11 +2,11 @@ import {
     r as w,
     j as i,
     c as p
-} from "./vendor-CtbUqpA0.js";
+} from "./vendor.js";
 import {
     c as m,
     a as d
-} from "./language-db-C33ehKO5.js";
+} from "./language-db.js";
 const u = ["en", "hi", "fr", "de", "nl", "pt"],
     L = {
         zh: "cn",

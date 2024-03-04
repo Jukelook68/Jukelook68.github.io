@@ -6,7 +6,7 @@ import {
     r as m,
     c as O,
     aw as H
-} from "./vendor-CtbUqpA0.js";
+} from "./vendor.js";
 import {
     e as _,
     i as q,
@@ -50,24 +50,24 @@ import {
     K as ye,
     O as M,
     Q as je
-} from "./index-CXsI4q_W.js";
+} from "./index.js";
 import {
     a as N,
     I as Se
-} from "./Icons-XXm5y-G7.js";
+} from "./Icons.js";
 import {
     b as R,
     a as V,
     l as we
-} from "./react-dom-BnEYDcZu.js";
+} from "./react-dom.js";
 import {
     S as Ee
-} from "./StatusCircle-B54taPQT.js";
+} from "./StatusCircle.js";
 import "./auth-72H9TcpW.js";
-import "./caption-parsing-BGqd6Hpv.js";
-import "./locales-BNmjpJ3z.js";
-import "./hls-Di-l_7QN.js";
-import "./language-db-C33ehKO5.js";
+import "./caption-parsing.js";
+import "./locales.js";
+import "./hls.js";
+import "./language-db.js";
 
 function be(r, t) {
     return !!G().DISALLOWED_IDS.map(n => n.split("-")).find(n => r === n[1] && t === n[0])

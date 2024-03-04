@@ -1,23 +1,23 @@
 import {
     j as t
-} from "./vendor-CtbUqpA0.js";
+} from "./vendor.js";
 import {
     N as c,
     T as x,
     a as m
-} from "./index-CXsI4q_W.js";
+} from "./index.js";
 import {
     L as d
-} from "./react-dom-BnEYDcZu.js";
+} from "./react-dom.js";
 import {
     I as r,
     a as s
-} from "./Icons-XXm5y-G7.js";
-import "./auth-72H9TcpW.js";
-import "./caption-parsing-BGqd6Hpv.js";
-import "./locales-BNmjpJ3z.js";
-import "./hls-Di-l_7QN.js";
-import "./language-db-C33ehKO5.js";
+} from "./Icons.js";
+import "./auth.js";
+import "./caption-parsing.js";
+import "./locales.js";
+import "./hls.js";
+import "./language-db.js";
 
 function o(e) {
     const i = e.direction || "right",
